@@ -39,18 +39,17 @@ $Umg = \dfrac{\Delta UT}{\Delta Q} = \dfrac{UT_{2} - UT_{1}}{Q_{2} - Q_{1}}$
 
 unde:
 
-$ UT $ - utilitatea totala
+$UT$ - utilitatea totala
+$\Delta Umg$ - utilitatea marginala
 
-$ \Delta Umg $ - utilitatea marginala
-
-$ \Delta Q $ - variatia absoluta a cantitatii consumate
+$\Delta Q$ - variatia absoluta a cantitatii consumate
 
 ---
 
 **Cand:**
-- $Umg > 0$ - $ UT $ creste dar cu o rata descrescatoare
-- $Umg = 0$ - $ UT $ este maxima
-- $Umg < 0$ - $ UT $ este pozitiva dar inregistreaza o scadere
+- $Umg > 0$ - $UT$ creste dar cu o rata descrescatoare
+- $Umg = 0$ - $UT$ este maxima
+- $Umg < 0$ - $UT$ este pozitiva dar inregistreaza o scadere
 
 ### B. Consumatorul rational
 **Eficienta alegerii inseamna:**
