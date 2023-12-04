@@ -62,4 +62,4 @@ Libertatea de a alege este limitata de:
 - marimea bugetului
 - nivelul preturilor
 
-Programul de achitie al bunurilor este **optim** atunci cand raportul Umg/pret unitar este acelasi pentru toate bunurile consumate.
+Programul de achizitie al bunurilor este **optim** atunci cand raportul Umg/pret unitar este acelasi pentru toate bunurile consumate.
